@@ -9,7 +9,7 @@ const hotelData = [
     rate: 4.8,
   },
   {
-    local: "SÃ£o Paulo",
+    local: "SÃo Paulo",
     name: "Vilage Resort Hotel",
     src: "./assets/pexels-donald-tong-189296.jpg",
     pricing: 380.0,
@@ -34,6 +34,13 @@ const hotelData = [
     name: "Hotel Alameda",
     src: "./assets/pexels-thorsten-technoman-338504.jpg",
     pricing: 600.0,
+    rate: 5,
+  },
+  {
+    local: "João Pessoa",
+    name: "Infinity at The Sea",
+    src: "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg",
+    pricing: 250.0,
     rate: 5,
   },
 ];
